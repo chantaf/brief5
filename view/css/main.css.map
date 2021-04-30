@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "main.scss",
+        "includes/_navbar.scss",
+        "includes/_login.scss",
+        "includes/_home.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
